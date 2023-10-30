@@ -1,6 +1,6 @@
 <div identificación="encabezado" align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=adabab&center=true&vCenter=true&width=435&lines=Welcome+to+my+github" alt="Typing SVG" /></a>
-    <h3 align="center">Red Teamer && CTF Enjoyer</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rug4lo&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Rug4lo" /></p>
 </div >
 
 <br>
