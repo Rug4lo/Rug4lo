@@ -4,14 +4,14 @@
 <br>
 
 <div identificación="centro" align="center">
-    <a href="https://git.io/typing-svg"><div align="center" identificación="centro"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=100000000&color=adabab&center=true&vCenter=true&width=435&lines=%3C+About+me+%3E" alt="Typing SVG" /></div></a>
+    <a href="https://git.io/typing-svg"><div align="center" identificación="centro"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=100000000&color=adabab&center=true&vCenter=true&width=435&lines=%3C+About+me+%3E" /></div></a>
 </div>
 <p align="center">🛡️ Cybersecurity<br>🔴 Red Team<br>👨‍💻 Ethical Hacker<br>🔎 Security Analyst</p>
 
 <br>
 
 <div identificación="centro" align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000000&color=adabab&center=true&vCenter=true&width=435&lines=%3C+My+Mastered+Skils+%3E" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=10000000&color=adabab&center=true&vCenter=true&width=435&lines=%3C+My+Mastered+Skils+%3E" alt="Typing SVG" /></a>
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
