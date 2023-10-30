@@ -22,5 +22,5 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rug4lo&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Rug4lo" /></p>
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<p align="center"><img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /></p>
 <!--<img src="https://media.giphy.com/media/IcJ6n6VJNjRNS/giphy.gif" width="200"/>gato-->
