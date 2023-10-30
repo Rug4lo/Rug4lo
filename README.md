@@ -17,7 +17,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,docker,github,js,linux,kubernetes,php,powershell" />
   </a>
-</p><br>
+</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,py,vim,vscode,latex,nginx,wordpress,c" />
