@@ -15,12 +15,12 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,docker,github,js,linux,kubernetes,php,powershell" />
+    <img src="https://skillicons.dev/icons?i=bash,docker,nodejs,js,linux,kubernetes,php,powershell" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,py,vim,vscode,latex,nginx,wordpress,c" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,html,py,vim,vscode,latex,nginx,wordpress,c" />
   </a>
 </p><br>
 
