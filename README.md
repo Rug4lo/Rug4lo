@@ -15,7 +15,7 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,linux,windows,powershell,py,docker,latex,vim" />
+    <img src="https://skillicons.dev/icons?i=linux,windows,bash,powershell,py,docker,latex,vim" />
   </a>
 </p><br>
 
