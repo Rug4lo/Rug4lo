@@ -6,7 +6,7 @@
 <div identificación="centro" align="center">
     <a href="https://git.io/typing-svg"><div align="center" identificación="centro"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=100000000&color=adabab&center=true&vCenter=true&width=435&lines=%3C+About+Me+%3E" /></div></a>
 </div>
-<p align="center">🛡️ Cybersecurity<br>🔴 Red Team<br>👨‍💻 Ethical Hacker<br>🔎 Pentester<br>📜 EJPTv2, EHE, DFE, NDE<br></p>
+<p align="center">🛡️ Cybersecurity<br>🔴 Red Team<br>👨‍💻 Ethical Hacker<br>🔎 Exploit Developer<br>📜 EJPTv2, EHE, DFE, NDE<br></p>
 
 <br>
 
@@ -15,7 +15,7 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,windows,bash,powershell,py,docker,latex,vim" />
+    <img src="https://skillicons.dev/icons?i=linux,windows,bash,powershell,py,docker,vim,c,cpp,dotnet,mysql,visualstudio," />
   </a>
 </p><br>
 
